@@ -29,6 +29,17 @@ Code is splitted (by comments) in sections:
 
 Writes `tidy_data` data frame to the ouputfile.
 
+
+## Attribute Information
+
+For each record in the dataset it is provided:
+
+* Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+* Triaxial Angular velocity from the gyroscope.
+* A 561-feature vector with time and frequency domain variables.
+* Its activity label.
+* An identifier of the subject who carried out the experiment.
+
 ## Identifiers
 * subject - The ID of the subject
 * activity - The type of activity performed when the corresponding measurements were taken
